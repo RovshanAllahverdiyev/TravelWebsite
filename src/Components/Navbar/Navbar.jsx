@@ -36,7 +36,7 @@ const Navbar = () => {
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">Packagec</a>
+              <a href="#packages" className="navLink">Packages</a>
             </li>
 
             <li className="navItem">

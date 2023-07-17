@@ -120,7 +120,7 @@ const Main = () => {
 
 
   return (
-    <section className='main container section'>
+    <section id='packages' className='main container section'>
 
       <div className="secTitle">
         <h3 data-aos='fade-right' className="title">
